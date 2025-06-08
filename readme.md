@@ -1,40 +1,15 @@
-# Temperature Converter
+# Temperature Converter 🔥❄️
 
-Welcome to the Temperature Converter!  
-This Python program allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin easily through a simple command-line interface.
+A beginner-friendly Python project to convert temperature between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
-## Features
+## 🚀 Features
+- Accepts any of the three units
+- Clean user interface via terminal
+- Accurate formulas with float handling
+- Displays degree (°) symbols for professionalism
 
-- Convert from Celsius (°C) to Fahrenheit (°F) and Kelvin (K)
-- Convert from Fahrenheit (°F) to Celsius (°C) and Kelvin (K)
-- Convert from Kelvin (K) to Celsius (°C) and Fahrenheit (°F)
-- User-friendly input prompt with an option to exit the program
-
-## How to Use
-
-1. Run the program.
-2. Enter the temperature value when prompted.
-3. Enter the unit of the temperature (`C`, `F`, or `K`).
-4. The program displays the converted temperatures.
-5. Type `exit` anytime to quit the program.
-
-## Example
-Enter the temperature (or type 'exit' to quit): 100
-Enter the unit (C for Celsius, F for Fahrenheit, K for Kelvin): C
-100.0°C is equal to 212.0°F and 373.15K
-
-Thanks for using the converter. Stay cool 😎
-
-
-
-## Requirements
-
+## 🧠 Technologies Used
 - Python 3.x
 
-## Author
-
-Made by @Mr_adex (Adityapratap Singh)
-
----
-
-Feel free to contribute, report issues, or suggest improvements!
+## 👨‍💻 Created By
+Adityapratap Singh (@Mr_adex)
